@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+</head>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const password = document.getElementById("password")
+        const show = document.getElementById("show")
+        show.addEventListener("click", () => {
+            if (password.type === "password") {
+                password.type = "text"
+            } else {
+                password.type = "password"
+            }
+        })
+    })
+</script>
+
+<body>
+    <form action="">
+        <h2>Login</h2>
+        <label for="username">Username or Email</label><br>
+        <input type="text" placeholder="Enter your name or email" required> <br>
+        <input type="password" id="password" placeholder="***********" required>
+        <input type="checkbox" id="show"> <br>
+        <button type="submit">Login</button> <br>
+        <a href="form.html">Create a new account!</a>
+    </form>
+</body>
+
+</html>
