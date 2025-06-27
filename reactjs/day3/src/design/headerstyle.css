@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    box-shadow: 2px 2px 14px rgb(190, 190, 190);
+    margin: auto;
+    padding:20px;
+    display: flex;
+    justify-content: center;
+}
+.header h1{
+    font-size: 55px;
+    font-weight: 400;
+    color: dodgerblue;
+}
+
+.header img{
+    width:60px;
+}

@@ -1,0 +1,38 @@
+.content{
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    margin-top: 120px;
+    
+}
+
+.content h1{
+    text-align: center;
+    color: indigo;
+    font-weight: 700;
+}
+
+.content p {
+    width: 700px;
+    margin: auto;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #333;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.content button{
+    background-color: darkcyan;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.content img{
+    width: 150px;
+}
