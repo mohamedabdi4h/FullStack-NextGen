@@ -1,0 +1,57 @@
+.boxes{
+    display: flex;
+    justify-items: center;
+    gap: 20px;
+    margin: 30px;
+    padding: 30px;
+}
+
+.box1{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    font-size: 22px;
+}
+
+.box2{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    font-size: 22px;
+}
+
+.box3{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    font-size: 22px;
+}
+
+.box4{
+    background-color: yellow;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    font-size: 22px;
+}
+
+.box5{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    font-size: 22px;
+}
+
+
+.box6{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 50px;
+    font-size: 22px;
+    
+}

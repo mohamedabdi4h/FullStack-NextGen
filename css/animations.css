@@ -1,0 +1,75 @@
+.ScaleUp{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 100px;
+    animation-name: ScaleUp;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes ScaleUp{
+    0%{
+        scale: 1.1;
+    }
+    50%{
+        scale: 1.0;
+    }
+    100%{
+        scale: 1.1;
+    }
+}
+
+/* Rotate */
+.Rotate{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin: 30px;
+    /* border-radius: 100px; */
+    animation-name: Rotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes Rotate{
+    0%{
+        rotate: 9deg;
+    }
+    50%{
+        rotate: 180deg;
+    }
+    100%{
+        
+        rotate: 360deg;
+    }
+}
+
+
+/* Transformers */
+.Transformers{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 100px;
+    animation-name: Transformers;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes Transformers{
+    0%{
+        transform: translateX(400px);
+    }
+    50%{
+        transform: translateX(0px);
+    }
+    100%{
+        transform: translateX(400px);
+    }
+}

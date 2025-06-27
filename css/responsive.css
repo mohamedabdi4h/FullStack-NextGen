@@ -1,0 +1,52 @@
+.responsiveMobile{
+    background-color: dodgerblue;
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* mobile */
+@media (max-width:640px){
+    .responsiveMobile{
+        background-color: lightblue;
+        width: 100%;
+        padding: 20px;
+        margin: 0 auto; 
+    }
+}
+
+/* Tablet */
+.responsiveTablet{
+    background-color: green;
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Tablet */
+@media (max-width:768px){
+    .responsiveTablet{
+        background-color: lightgreen;
+        width: 100%;
+        padding: 20px;
+        margin: 0 auto; 
+    }
+}
+
+/* Desktop */
+.responsiveDesktop{
+    background-color: pink;
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* mobile */
+@media (max-width:1024px){
+    .responsiveDestop{
+        background-color: thistle;
+        width: 100%;
+        padding: 20px;
+        margin: 0 auto; 
+    }
+}

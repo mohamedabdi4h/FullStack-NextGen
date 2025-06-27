@@ -1,0 +1,23 @@
+/* Element Selector */
+h1{
+    color: red;
+}
+
+/* Class Selector */
+.className{
+    text-align: center;
+    font-size: 33px;
+}
+
+/* Identation Selector  */
+#identation{
+    color: blue;
+    font-size: 20px;
+}
+
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
