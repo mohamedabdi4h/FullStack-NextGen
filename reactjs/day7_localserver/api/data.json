@@ -1,0 +1,35 @@
+{
+    "students":[
+        {
+            "id": 1,
+            "fullname": "maria mohamed",
+            "email": "maria@mohamed.com",
+            "sex": "female",
+            "age": 3,
+            "address": "sh.cali jawhar",
+            "city": "Boorama",
+            "image": "https://img.freepik.com/premium-photo/asian-little-muslim-girl-wearing-hijab-show-welcome-gesture_262958-5310.jpg"
+        },
+         {
+            "id": 2,
+            "fullname": "Yaqdaan mohamed",
+            "email": "Yaqdaan@mohamed.com",
+            "sex": "Male",
+            "age": 2,
+            "address": "sh.cali jawhar",
+            "city": "Boorama",
+            "image": "https://thumbs.dreamstime.com/b/asian-boy-giving-you-thumbs-up-over-white-background-isolated-49855000.jpg"
+        },
+        {
+            "id": 3,
+            "fullname": "Suhaila mohamed",
+            "email": "Suhaila@mohamed.com",
+            "sex": "Female",
+            "age": 3,
+            "address": "sh.cali jawhar",
+            "city": "Boorama",
+            "image": "https://5.imimg.com/data5/ANDROID/Default/2021/11/YM/DF/MA/106590479/1637115816590-jpg-500x500.jpg"
+        }
+    ]
+
+}
