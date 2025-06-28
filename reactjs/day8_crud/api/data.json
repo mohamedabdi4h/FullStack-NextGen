@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "3560",
+      "fullname": "suhaiba maxamed badqas",
+      "address": "islii",
+      "city": "Nairobi",
+      "gender": "",
+      "phone": "+254-9000000000"
+    },
+    {
+      "id": "da3b",
+      "fullname": "Laila Turkuman",
+      "address": "shari anadol",
+      "city": "Stanbul",
+      "gender": "female",
+      "phone": "+4 55544334567"
+    }
+  ]
+}
