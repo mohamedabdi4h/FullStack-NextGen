@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "students": [
+    {
+      "id": "b7f9",
+      "fullname": "Nuuradiin sheekh abiib",
+      "address": "siinaay",
+      "gender": "male",
+      "phone": "634104617",
+      "city": "Hargeisa"
+    }
+  ]
+}
