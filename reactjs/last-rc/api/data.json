@@ -9,10 +9,26 @@
   "students": [
     {
       "id": "b7f9",
-      "fullname": "Nuuradiin sheekh abiib",
+      "fullname": "Nuuradiin sheekh xabiib",
       "address": "siinaay",
       "gender": "male",
       "phone": "634104617",
+      "city": "Hargeisa"
+    },
+    {
+      "id": "9613",
+      "fullname": "Yaqdaan Mohamed abdi",
+      "address": "sheekh cali jawhar ",
+      "gender": "male",
+      "phone": "634104619",
+      "city": "Boorama"
+    },
+    {
+      "id": "8081",
+      "fullname": "naasir yuusuf cilmi",
+      "address": "Daruuraha",
+      "gender": "male",
+      "phone": "0634104611",
       "city": "Hargeisa"
     }
   ]
